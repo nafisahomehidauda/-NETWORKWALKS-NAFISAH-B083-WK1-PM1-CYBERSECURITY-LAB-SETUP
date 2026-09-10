@@ -104,3 +104,30 @@ The network connection was then restarted/rebooted and connectivity was tested a
 Problem 3. BASIC/EXPERT MODE
 I couldn't find the Network option after clicking tools in virtualBox
 I found out it was running on the basic mode. After switching it to expert mode every other step worked fine.
+
+
+What I Learned
+Through this project, I learned how to create and configure a virtual environment for cybersecurity practice.
+
+The most important concepts I learned include:
+
+1. NAT vs NAT Network
+A standard NAT configuration and a NAT Network serve different purposes.
+
+A NAT Network allows multiple VMs connected to the same virtual network to communicate with one another while providing network address translation for external connectivity.
+
+This makes it useful for building a multi-machine cybersecurity laboratory.
+
+2. Virtual Machine Networking
+I learned how VirtualBox virtual network adapters connect virtual machines to different types of networks and how network configuration affects communication between machines.
+
+3. Static IP Configuration
+I learned how to configure and verify IPv4 addressing, subnet masks, gateways, and DNS settings in Kali Linux.
+
+4. VM Snapshots
+I learned that a clean snapshot should be created before performing risky or experimental activities.
+
+This provides a known-good recovery point for future cybersecurity exercises.
+
+5. Documentation
+I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
