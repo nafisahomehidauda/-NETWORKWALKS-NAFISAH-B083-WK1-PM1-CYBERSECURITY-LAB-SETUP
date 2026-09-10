@@ -29,4 +29,5 @@ It can be used for activities such as:
 * Web security testing
 * Exploitation practice
 * Security-tool experimentation
+
 ⚠️ Important: This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
