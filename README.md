@@ -76,7 +76,24 @@ After completing the initial configuration, a VirtualBox snapshot was created.
 
 Example snapshot name:
 
-Clean Kali - Network Setup
-The snapshot represents the clean baseline of the laboratory.
+Fresh Kali after installation- Network Setup
 
 If a future exercise changes or damages the VM configuration, the machine can be restored to this baseline.
+
+
+Problems Encountered & Solutions
+Problem  1. Virtualization issue while setting up Kali Linux lab in VirtualB0x
+After trouble shooting, I discovered that Intel (R) the Virtualization hardware and the Intel (R) VT-d Feature was disabled in BIOS setting.
+I enabled it, restarted the computer and VirtualBox was able to run Kali Linux successfully.
+
+
+Problem 2. Internet Connectivity After Static IP Configuration
+After manually configuring the IPv4 settings,I Lost Internet connectivity and had to check the Kali/NetworkManager configuration.
+The problem was from the NetworkManager configuration.
+
+One workaround I used during this lab was:
+
+sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
+
+The network connection was then restarted/rebooted and connectivity was tested again.
+
