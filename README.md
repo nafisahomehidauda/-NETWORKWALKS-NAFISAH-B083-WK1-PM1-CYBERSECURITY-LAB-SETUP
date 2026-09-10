@@ -82,12 +82,15 @@ If a future exercise changes or damages the VM configuration, the machine can be
 
 
 Problems Encountered & Solutions
-Problem  1. Virtualization issue while setting up Kali Linux lab in VirtualB0x
+
+Problem  1. Virtualization Error while setting up Kali Linux lab in VirtualB0x
+
 After trouble shooting, I discovered that Intel (R) the Virtualization hardware and the Intel (R) VT-d Feature was disabled in BIOS setting.
 I enabled it, restarted the computer and VirtualBox was able to run Kali Linux successfully.
 
 
 Problem 2. Internet Connectivity After Static IP Configuration
+
 After manually configuring the IPv4 settings,I Lost Internet connectivity and had to check the Kali/NetworkManager configuration.
 The problem was from the NetworkManager configuration.
 
@@ -97,3 +100,7 @@ sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
 
 The network connection was then restarted/rebooted and connectivity was tested again.
 
+
+Problem 3. BASIC/EXPERT MODE
+I couldn't find the Network option after clicking tools in virtualBox
+I found out it was running on the basic mode. After switching it to expert mode every other step worked fine.
