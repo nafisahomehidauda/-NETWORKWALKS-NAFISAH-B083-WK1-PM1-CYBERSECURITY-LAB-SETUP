@@ -22,11 +22,11 @@ The lab provides an isolated and controlled environment for cybersecurity learni
 
 It can be used for activities such as:
 
-Network reconnaissance
-Port scanning
-Vulnerability assessment
-Packet analysis
-Web security testing
-Exploitation practice
-Security-tool experimentation
+* Network reconnaissance
+* Port scanning
+* Vulnerability assessment
+* Packet analysis
+* Web security testing
+* Exploitation practice
+* Security-tool experimentation
 ⚠️ Important: This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
