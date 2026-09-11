@@ -31,6 +31,7 @@ The main objectives of this project are to:
 ____________________________________________________________________________________________________________________________________________________
 
 🛡️ Purpose of the Lab
+________
 The lab provides an isolated and controlled environment for cybersecurity learning and authorized security testing.
 
 It can be used for activities such as:
@@ -47,6 +48,7 @@ It can be used for activities such as:
 __________________________________________________________________________________________________________________________________________________________
 
 🪜 Lab Setup Procedure
+______________
 
 🔗 Step 1. Install 7-Zip
 
@@ -146,6 +148,7 @@ I found out it was running on the basic mode. After switching it to expert mode 
 ____________________________________________________________________________________________________________________________________________________
 
 🧠 What I Learned
+______________________
 Through this project, I learned how to create and configure a virtual environment for cybersecurity practice.
 
 The most important concepts I learned include:
@@ -177,13 +180,13 @@ This laboratory is intended strictly for education purposes only.
 ________________________________________________________________________________________________________________________________
 
 🔗 Tools & Resources
-
+____________________
 7-Zip: https://7-zip.org/download.html
 
 VirtualBox: https://virtualbox.org/wiki/Downloads
 
 Kali Linux: https://kali.org/get-kali
-
+_________________
 
 👤 Author
 
@@ -192,7 +195,7 @@ Nafisat Omehi Dauda
 Cybersecurity Professional B083
 
 Linkedin:
-
+_________________
 
 📌 Project Information
 
