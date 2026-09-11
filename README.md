@@ -8,6 +8,7 @@ The lab is configured on a private virtual network so that additional machines c
 _______________________________________________________________________________________________________________________________________________________
 
 🎯 Objectives
+_______________________
 The main objectives of this project are to:
 
 ▫️Install and configure VirtualBox.
