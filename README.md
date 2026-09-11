@@ -195,7 +195,7 @@ Nafisat Omehi Dauda
 
 Cybersecurity Professional B083
 
-Linkedin:
+Linkedin: https://www.linkedin.com/in/nafisa-dauda-baa021317?utm_source=share_via&utm_content=profile&utm_medium=member_android
 _________________
 
 📌 Project Information
