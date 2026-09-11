@@ -151,3 +151,12 @@ This provides a known-good recovery point for future cybersecurity exercises.
 
 5. Documentation
 I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
+
+Security & Ethical Use
+This laboratory is intended strictly for education purposes only.
+
+🔗 Tools & Resources
+7-Zip: https://7-zip.org/download.html
+VirtualBox: https://virtualbox.org/wiki/Downloads
+Kali Linux: https://kali.org/get-kali
+
