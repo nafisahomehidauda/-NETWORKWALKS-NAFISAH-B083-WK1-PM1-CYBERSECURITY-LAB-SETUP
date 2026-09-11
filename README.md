@@ -154,9 +154,25 @@ I learned that documenting commands, configuration, screenshots, problems, and s
 
 Security & Ethical Use
 This laboratory is intended strictly for education purposes only.
-
+________________________________________________________________________________________________________________________________
 🔗 Tools & Resources
+
 7-Zip: https://7-zip.org/download.html
+
 VirtualBox: https://virtualbox.org/wiki/Downloads
+
 Kali Linux: https://kali.org/get-kali
 
+
+👤 Author
+
+Nafisat Omehi Dauda 
+
+Cybersecurity Professional B083
+
+Linkedin:
+
+
+📌 Project Information
+
+Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
